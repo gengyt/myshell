@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "test"
 echo "Hello World!I'm Learning VIM"
 your_name="runoob.com"
 echo $your_name
